@@ -1,0 +1,72 @@
+body {
+	font-family: Georgia,"Bitstream Charter",serif;
+	line-height: 1.4em;
+}
+
+body.intro {
+  background: url('bg_jon.jpg') no-repeat 20px 20px;
+}
+
+.intro span {
+  background: #fff;
+}
+
+h1 {
+	padding-top:2em;
+}
+
+h2 {
+	padding-top: 2em;
+}
+
+p {
+	text-indent: 1em;
+}
+
+span {
+	padding:0;
+	margin:0;
+}
+
+ul {
+	margin:0;
+	padding:2em 0 0 0;
+}
+
+li {
+	list-style: none;
+	margin:0;
+	padding:0;
+}
+
+a {
+	color: #333;
+}
+
+a:hover {
+  text-decoration:none;
+}
+
+.content {
+	max-width:580px;
+	margin: 0 auto;
+}
+
+.header {
+	text-align:center;
+	padding-bottom:2em;
+}
+
+.header>p {
+	padding:0;
+	margin:0;
+	text-indent:0;
+}
+
+.header>h1 {
+	padding-top: 0.2em;
+}
+
+.header .author {
+	padding-top:2em;
+}
