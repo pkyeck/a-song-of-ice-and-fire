@@ -1,6 +1,8 @@
 A Song Of Ice And Fire
 ======================
 
+<img align="left" alt="Jon Snow" src="http://pkyeck.github.io/a-song-of-ice-and-fire/bg_jon.jpg">
+
 Summaries for the books by George R.R. Martin done by Vincent Briscuso (✝)
 
 1) [A Game Of Thrones](http://pkyeck.github.io/a-song-of-ice-and-fire/01agot.html)  
